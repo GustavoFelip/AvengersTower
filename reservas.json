@@ -1,0 +1,233 @@
+[
+  {
+    "_id": "r01",
+    "codigo_reserva": "AT-2026-001",
+    "hospede_id": "h01",
+    "hospede_snapshot": {
+      "nome": "Tony Stark",
+      "nome_heroi": "Iron Man"
+    },
+    "quarto_id": "q01",
+    "quarto_snapshot": {
+      "numero": "101",
+      "tipo": "suite",
+      "preco_diaria": 850
+    },
+    "data_checkin": {
+      "$date": "2026-11-10T14:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-11-14T11:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 1,
+    "valor_total": 3400.0,
+    "status": "concluida",
+    "canal": "assistente_virtual",
+    "observacoes": "Bancada para manutenção da armadura.",
+    "data_criacao": {
+      "$date": "2026-11-02T12:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-11-14T10:45:00Z"
+    }
+  },
+  {
+    "_id": "r02",
+    "codigo_reserva": "AT-2026-002",
+    "hospede_id": "h02",
+    "hospede_snapshot": {
+      "nome": "Steve Rogers",
+      "nome_heroi": "Capitão América"
+    },
+    "quarto_id": "q04",
+    "quarto_snapshot": {
+      "numero": "202",
+      "tipo": "suite",
+      "preco_diaria": 550
+    },
+    "data_checkin": {
+      "$date": "2026-11-11T14:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-11-14T11:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 1,
+    "valor_total": 1650.0,
+    "status": "concluida",
+    "canal": "assistente_virtual",
+    "observacoes": "Suporte para escudo e ambiente silencioso.",
+    "data_criacao": {
+      "$date": "2026-11-02T12:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-11-14T10:45:00Z"
+    }
+  },
+  {
+    "_id": "r03",
+    "codigo_reserva": "AT-2026-003",
+    "hospede_id": "h03",
+    "hospede_snapshot": {
+      "nome": "Thor Odinson",
+      "nome_heroi": "Thor"
+    },
+    "quarto_id": "q05",
+    "quarto_snapshot": {
+      "numero": "301",
+      "tipo": "suite",
+      "preco_diaria": 1100
+    },
+    "data_checkin": {
+      "$date": "2026-11-12T14:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-11-17T11:00:00Z"
+    },
+    "num_noites": 5,
+    "num_hospedes": 1,
+    "valor_total": 5500.0,
+    "status": "concluida",
+    "canal": "assistente_virtual",
+    "observacoes": "Base reforçada para equipamentos e refeições no quarto.",
+    "data_criacao": {
+      "$date": "2026-11-02T12:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-11-17T10:45:00Z"
+    }
+  },
+  {
+    "_id": "r04",
+    "codigo_reserva": "AT-2026-004",
+    "hospede_id": "h04",
+    "hospede_snapshot": {
+      "nome": "Bruce Banner",
+      "nome_heroi": "Hulk"
+    },
+    "quarto_id": "q02",
+    "quarto_snapshot": {
+      "numero": "102",
+      "tipo": "suite",
+      "preco_diaria": 1200
+    },
+    "data_checkin": {
+      "$date": "2026-11-10T14:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-11-13T11:00:00Z"
+    },
+    "num_noites": 3,
+    "num_hospedes": 1,
+    "valor_total": 3600.0,
+    "status": "concluida",
+    "canal": "assistente_virtual",
+    "observacoes": "Cama e piso reforçados, portas largas e acomodação no térreo.",
+    "data_criacao": {
+      "$date": "2026-11-02T12:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-11-13T10:45:00Z"
+    }
+  },
+  {
+    "_id": "r05",
+    "codigo_reserva": "AT-2026-005",
+    "hospede_id": "h05",
+    "hospede_snapshot": {
+      "nome": "Clint Barton",
+      "nome_heroi": "Gavião Arqueiro"
+    },
+    "quarto_id": "q06",
+    "quarto_snapshot": {
+      "numero": "203",
+      "tipo": "suite",
+      "preco_diaria": 500
+    },
+    "data_checkin": {
+      "$date": "2026-11-14T14:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-11-16T11:00:00Z"
+    },
+    "num_noites": 2,
+    "num_hospedes": 1,
+    "valor_total": 1000.0,
+    "status": "concluida",
+    "canal": "assistente_virtual",
+    "observacoes": "Armário para arco e flechas.",
+    "data_criacao": {
+      "$date": "2026-11-02T12:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-11-16T10:45:00Z"
+    }
+  },
+  {
+    "_id": "r06",
+    "codigo_reserva": "AT-2026-006",
+    "hospede_id": "h06",
+    "hospede_snapshot": {
+      "nome": "Natasha Romanoff",
+      "nome_heroi": "Viúva Negra"
+    },
+    "quarto_id": "q07",
+    "quarto_snapshot": {
+      "numero": "204",
+      "tipo": "suite",
+      "preco_diaria": 600
+    },
+    "data_checkin": {
+      "$date": "2026-11-15T14:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-11-19T11:00:00Z"
+    },
+    "num_noites": 4,
+    "num_hospedes": 1,
+    "valor_total": 2400.0,
+    "status": "concluida",
+    "canal": "assistente_virtual",
+    "observacoes": "Privacidade, cofre e ambiente silencioso.",
+    "data_criacao": {
+      "$date": "2026-11-02T12:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-11-19T10:45:00Z"
+    }
+  },
+  {
+    "_id": "r07",
+    "codigo_reserva": "AT-2026-007",
+    "hospede_id": "h07",
+    "hospede_snapshot": {
+      "nome": "Peter Parker",
+      "nome_heroi": "Homem-Aranha"
+    },
+    "quarto_id": "q03",
+    "quarto_snapshot": {
+      "numero": "201",
+      "tipo": "suite",
+      "preco_diaria": 450
+    },
+    "data_checkin": {
+      "$date": "2026-11-16T14:00:00Z"
+    },
+    "data_checkout": {
+      "$date": "2026-11-18T11:00:00Z"
+    },
+    "num_noites": 2,
+    "num_hospedes": 1,
+    "valor_total": 900.0,
+    "status": "concluida",
+    "canal": "assistente_virtual",
+    "observacoes": "Mesa de estudos e bancada para lançadores de teia.",
+    "data_criacao": {
+      "$date": "2026-11-02T12:00:00Z"
+    },
+    "data_atualizacao": {
+      "$date": "2026-11-18T10:45:00Z"
+    }
+  }
+]

@@ -1,0 +1,460 @@
+[
+{
+  "_id": "q01",
+  "numero": "101",
+  "andar": 1,
+  "tipo": "suite",
+  "categoria": "luxo",
+  "capacidade_max": 2,
+  "preco_diaria": 850,
+  "descricao": "Suíte da Avengers Tower com espaço para equipamentos e bancada de manutenção de armaduras.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "bancada de manutencao",
+    "assistente virtual"
+  ],
+  "caracteristicas": {
+    "vista": "cidade",
+    "banheira": true,
+    "varanda": false,
+    "area_m2": 60,
+    "cama": "king",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q02",
+  "numero": "102",
+  "andar": 0,
+  "tipo": "suite",
+  "categoria": "especial",
+  "capacidade_max": 1,
+  "preco_diaria": 1200,
+  "descricao": "Suíte para Hulk no térreo, com piso e cama reforçados, portas largas e mobiliário robusto.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar ampliado",
+    "cama reforcada",
+    "portas largas",
+    "mobiliario reforcado"
+  ],
+  "caracteristicas": {
+    "vista": "jardim",
+    "banheira": true,
+    "varanda": false,
+    "area_m2": 100,
+    "cama": "extra_grande_reforcada",
+    "estrutura_reforcada": true
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q03",
+  "numero": "201",
+  "andar": 2,
+  "tipo": "suite",
+  "categoria": "conforto",
+  "capacidade_max": 1,
+  "preco_diaria": 450,
+  "descricao": "Suíte para Peter Parker, com bancada para manutenção dos lançadores de teia, espaço de estudo e armário para o uniforme.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "bancada de equipamentos",
+    "mesa de estudos",
+    "armario de uniformes",
+    "superficies lavaveis"
+  ],
+  "caracteristicas": {
+    "vista": "cidade",
+    "banheira": false,
+    "varanda": true,
+    "area_m2": 40,
+    "cama": "solteiro",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q04",
+  "numero": "202",
+  "andar": 2,
+  "tipo": "suite",
+  "categoria": "conforto",
+  "capacidade_max": 1,
+  "preco_diaria": 550,
+  "descricao": "Suíte para Steve Rogers, com suporte para escudo, espaço para alongamentos e isolamento acústico.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "suporte para escudo",
+    "espaco para alongamentos",
+    "isolamento acustico",
+    "cortinas blackout"
+  ],
+  "caracteristicas": {
+    "vista": "jardim",
+    "banheira": false,
+    "varanda": false,
+    "area_m2": 48,
+    "cama": "queen",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q05",
+  "numero": "301",
+  "andar": 3,
+  "tipo": "suite",
+  "categoria": "especial",
+  "capacidade_max": 1,
+  "preco_diaria": 1100,
+  "descricao": "Suíte para Thor, com decoração inspirada em Asgard, cama ampla e base reforçada para guardar equipamentos.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar ampliado",
+    "decoracao asgardiana",
+    "base reforcada para equipamentos",
+    "mesa de refeicoes"
+  ],
+  "caracteristicas": {
+    "vista": "cidade",
+    "banheira": true,
+    "varanda": true,
+    "area_m2": 85,
+    "cama": "extra_grande",
+    "estrutura_reforcada": true
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q06",
+  "numero": "203",
+  "andar": 2,
+  "tipo": "suite",
+  "categoria": "conforto",
+  "capacidade_max": 2,
+  "preco_diaria": 500,
+  "descricao": "Suíte para Clint Barton, com armário para arco e flechas e bancada de manutenção de equipamentos.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "armario para arco e flechas",
+    "bancada de equipamentos",
+    "isolamento acustico",
+    "cofre"
+  ],
+  "caracteristicas": {
+    "vista": "jardim",
+    "banheira": false,
+    "varanda": false,
+    "area_m2": 45,
+    "cama": "queen",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q07",
+  "numero": "204",
+  "andar": 2,
+  "tipo": "suite",
+  "categoria": "conforto",
+  "capacidade_max": 1,
+  "preco_diaria": 600,
+  "descricao": "Suíte para Natasha Romanoff, com privacidade, cofre para equipamentos e espaço para alongamentos.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "cofre",
+    "armario de equipamentos",
+    "isolamento acustico",
+    "cortinas blackout"
+  ],
+  "caracteristicas": {
+    "vista": "cidade",
+    "banheira": false,
+    "varanda": false,
+    "area_m2": 46,
+    "cama": "queen",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q08",
+  "numero": "401",
+  "andar": 4,
+  "tipo": "suite",
+  "categoria": "luxo",
+  "capacidade_max": 2,
+  "preco_diaria": 1000,
+  "descricao": "Suíte alternativa para Tony Stark, com oficina compacta de manutenção leve e espaço para guardar uma armadura.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "oficina compacta",
+    "suporte para armadura",
+    "bancada de eletronica",
+    "assistente virtual"
+  ],
+  "caracteristicas": {
+    "vista": "cidade",
+    "banheira": true,
+    "varanda": true,
+    "area_m2": 80,
+    "cama": "king",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q09",
+  "numero": "302",
+  "andar": 3,
+  "tipo": "suite",
+  "categoria": "especial",
+  "capacidade_max": 1,
+  "preco_diaria": 950,
+  "descricao": "Suíte alternativa para Bruce Banner, com espaço de leitura, mesa de pesquisa e estrutura reforçada para acomodação na forma Hulk.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "biblioteca de ciencias",
+    "mesa de pesquisa",
+    "cama reforcada",
+    "portas largas"
+  ],
+  "caracteristicas": {
+    "vista": "jardim",
+    "banheira": true,
+    "varanda": false,
+    "area_m2": 95,
+    "cama": "extra_grande_reforcada",
+    "estrutura_reforcada": true
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q10",
+  "numero": "205",
+  "andar": 2,
+  "tipo": "standard",
+  "categoria": "economico",
+  "capacidade_max": 1,
+  "preco_diaria": 250,
+  "descricao": "Quarto alternativo para Peter Parker ou visitantes, com mesa de estudos e espaço para mochila e uniforme.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "mesa de estudos",
+    "armario de uniformes",
+    "luminaria de leitura"
+  ],
+  "caracteristicas": {
+    "vista": "cidade",
+    "banheira": false,
+    "varanda": false,
+    "area_m2": 28,
+    "cama": "solteiro",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q11",
+  "numero": "303",
+  "andar": 3,
+  "tipo": "suite",
+  "categoria": "conforto",
+  "capacidade_max": 5,
+  "preco_diaria": 800,
+  "descricao": "Suíte familiar para visitas de Clint Barton e sua família, com dormitórios separados e mesa de refeições.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "dormitorios separados",
+    "mesa de refeicoes",
+    "televisao",
+    "camas adicionais"
+  ],
+  "caracteristicas": {
+    "vista": "jardim",
+    "banheira": true,
+    "varanda": true,
+    "area_m2": 90,
+    "cama": "queen_e_tres_solteiro",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q12",
+  "numero": "304",
+  "andar": 3,
+  "tipo": "suite",
+  "categoria": "conforto",
+  "capacidade_max": 2,
+  "preco_diaria": 550,
+  "descricao": "Suíte de descanso após missões, adequada a Steve Rogers, Natasha Romanoff e outros hóspedes.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "isolamento acustico",
+    "cortinas blackout",
+    "poltrona de descanso",
+    "iluminacao regulavel"
+  ],
+  "caracteristicas": {
+    "vista": "jardim",
+    "banheira": true,
+    "varanda": false,
+    "area_m2": 50,
+    "cama": "queen",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q13",
+  "numero": "103",
+  "andar": 0,
+  "tipo": "suite",
+  "categoria": "especial",
+  "capacidade_max": 1,
+  "preco_diaria": 1300,
+  "descricao": "Segunda opção para Hulk, com piso reforçado, passagem larga e banheiro amplo, próxima ao acesso térreo.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "cama reforcada",
+    "portas largas",
+    "banheiro amplo",
+    "mobiliario reforcado"
+  ],
+  "caracteristicas": {
+    "vista": "jardim",
+    "banheira": false,
+    "varanda": false,
+    "area_m2": 110,
+    "cama": "extra_grande_reforcada",
+    "estrutura_reforcada": true
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q14",
+  "numero": "206",
+  "andar": 2,
+  "tipo": "standard",
+  "categoria": "economico",
+  "capacidade_max": 2,
+  "preco_diaria": 300,
+  "descricao": "Quarto para heróis visitantes de outras equipes, com duas camas e armários individuais.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "duas camas",
+    "armarios individuais",
+    "mesa de apoio"
+  ],
+  "caracteristicas": {
+    "vista": "cidade",
+    "banheira": false,
+    "varanda": false,
+    "area_m2": 32,
+    "cama": "duas_solteiro",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+},
+
+{
+  "_id": "q15",
+  "numero": "402",
+  "andar": 4,
+  "tipo": "suite",
+  "categoria": "luxo",
+  "capacidade_max": 2,
+  "preco_diaria": 900,
+  "descricao": "Suíte para hóspedes em preparação de missões, com mesa de planejamento e estação de comunicação da torre.",
+  "comodidades": [
+    "wifi",
+    "ar-condicionado",
+    "frigobar",
+    "mesa de planejamento",
+    "estacao de comunicacao",
+    "cofre",
+    "assistente virtual"
+  ],
+  "caracteristicas": {
+    "vista": "cidade",
+    "banheira": true,
+    "varanda": false,
+    "area_m2": 65,
+    "cama": "king",
+    "estrutura_reforcada": false
+  },
+  "status": "disponivel",
+  "fotos": [],
+  "ultima_limpeza": null
+}
+]

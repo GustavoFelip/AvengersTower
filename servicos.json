@@ -1,0 +1,440 @@
+[
+  {
+    "_id": "s01",
+    "nome": "Manutenção de armadura",
+    "categoria": "manutencao",
+    "descricao": "Revisão fictícia da armadura, limpeza de componentes e testes de funcionamento.",
+    "preco": 450,
+    "moeda": "USD",
+    "unidade": "atendimento",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "armadura",
+      "tecnologia"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Serviço inspirado nos equipamentos de Tony Stark.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s02",
+    "nome": "Café da manhã",
+    "categoria": "alimentacao",
+    "descricao": "Café da manhã completo entregue no quarto, disponível sob demanda.",
+    "preco": 45,
+    "moeda": "USD",
+    "unidade": "pessoa",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "refeicao",
+      "cafe_da_manha"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Refeição geral para os hóspedes, sem atribuir preferência oficial.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s03",
+    "nome": "Lavagem de uniforme",
+    "categoria": "lavanderia",
+    "descricao": "Lavagem e secagem de uniformes, respeitando os materiais de cada traje.",
+    "preco": 80,
+    "moeda": "USD",
+    "unidade": "uniforme",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "uniforme",
+      "lavanderia"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Serviço para uniformes de Steve, Natasha, Peter e outros hóspedes.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s04",
+    "nome": "Banquete asgardiano",
+    "categoria": "alimentacao",
+    "descricao": "Refeição temática com carnes, legumes e acompanhamentos em porções generosas.",
+    "preco": 250,
+    "moeda": "USD",
+    "unidade": "pessoa",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "asgard",
+      "refeicao"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Cardápio inspirado em Asgard; não é uma receita oficial nem uma preferência confirmada de Thor.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s05",
+    "nome": "Lavagem de capa",
+    "categoria": "lavanderia",
+    "descricao": "Lavagem e conservação de capas, com tratamento conforme o tecido.",
+    "preco": 90,
+    "moeda": "USD",
+    "unidade": "capa",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "capa",
+      "lavanderia"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Serviço inspirado na capa de Thor.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s06",
+    "nome": "Hambúrguer",
+    "categoria": "alimentacao",
+    "descricao": "Hambúrguer servido no quarto; pode ser solicitado em várias unidades.",
+    "preco": 35,
+    "moeda": "USD",
+    "unidade": "unidade",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "lanche",
+      "hamburguer"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "No cenário da atividade, Hulk pediu 20 unidades. Isso não indica uma preferência oficial do personagem.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s07",
+    "nome": "Refeição reforçada",
+    "categoria": "alimentacao",
+    "descricao": "Refeição em porção extra grande, pensada para o cenário fictício do Hulk.",
+    "preco": 120,
+    "moeda": "USD",
+    "unidade": "porcao",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "porcao_grande",
+      "refeicao"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Adaptação criativa às necessidades imaginadas para Hulk, sem alegação nutricional ou canônica.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s08",
+    "nome": "Manutenção de arco",
+    "categoria": "manutencao",
+    "descricao": "Inspeção do arco e organização dos acessórios, sem fabricar munição.",
+    "preco": 150,
+    "moeda": "USD",
+    "unidade": "atendimento",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "arco",
+      "equipamentos"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Serviço inspirado nos equipamentos de Clint Barton.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s09",
+    "nome": "Massagem relaxante",
+    "categoria": "bem_estar",
+    "descricao": "Sessão de relaxamento após missões, oferecida por prestador ainda não cadastrado.",
+    "preco": 180,
+    "moeda": "USD",
+    "unidade": "sessao",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "descanso",
+      "relaxamento"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Serviço fictício do alojamento, sem atribuir preferência oficial a Natasha.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s10",
+    "nome": "Manutenção de lançadores de teia",
+    "categoria": "manutencao",
+    "descricao": "Inspeção fictícia dos lançadores de teia e limpeza dos componentes.",
+    "preco": 120,
+    "moeda": "USD",
+    "unidade": "atendimento",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "teia",
+      "equipamentos"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Serviço inspirado nos equipamentos de Peter Parker.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s11",
+    "nome": "Pizza",
+    "categoria": "alimentacao",
+    "descricao": "Pizza inteira entregue no quarto, com sabor escolhido na solicitação.",
+    "preco": 60,
+    "moeda": "USD",
+    "unidade": "pizza",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "pizza",
+      "lanche"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Opção usada na hospedagem de Peter neste projeto; não pressupõe uma comida favorita oficial do MCU.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s12",
+    "nome": "Cheesebúrguer do Stark",
+    "categoria": "alimentacao",
+    "descricao": "Cheesebúrguer temático servido após missões.",
+    "preco": 40,
+    "moeda": "USD",
+    "unidade": "unidade",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "tony_stark",
+      "cheeseburguer"
+    ],
+    "referencia_tematica": {
+      "origem": "referencia_filme",
+      "descricao": "Inspirado no cheesebúrguer que Tony pede após seu resgate em Homem de Ferro (2008).",
+      "fonte": "https://en.wikipedia.org/wiki/Iron_Man_%282008_film%29"
+    }
+  },
+  {
+    "_id": "s13",
+    "nome": "Shawarma pós-missão",
+    "categoria": "alimentacao",
+    "descricao": "Sanduíche de shawarma inspirado na reunião da equipe após a Batalha de Nova York.",
+    "preco": 50,
+    "moeda": "USD",
+    "unidade": "unidade",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "vingadores",
+      "shawarma"
+    ],
+    "referencia_tematica": {
+      "origem": "referencia_filme",
+      "descricao": "Referência à cena pós-créditos de Os Vingadores (2012), sem afirmar que é a comida favorita de cada integrante.",
+      "fonte": "https://en.wikipedia.org/wiki/The_Avengers_%282012_film%29"
+    }
+  },
+  {
+    "_id": "s14",
+    "nome": "Panquecas de trigo da Tia May",
+    "categoria": "alimentacao",
+    "descricao": "Panquecas de trigo temáticas, inspiradas no café da manhã de Peter nos quadrinhos.",
+    "preco": 35,
+    "moeda": "USD",
+    "unidade": "porcao",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "peter_parker",
+      "panquecas",
+      "quadrinhos"
+    ],
+    "referencia_tematica": {
+      "origem": "referencia_quadrinhos",
+      "descricao": "Referência aos wheat cakes associados a Peter Parker da Terra-616; não é uma preferência confirmada da versão MCU.",
+      "fonte": "https://marvel.fandom.com/wiki/Peter_Parker_%28Earth-616%29"
+    }
+  },
+  {
+    "_id": "s15",
+    "nome": "Café do Thor",
+    "categoria": "alimentacao",
+    "descricao": "Café servido em caneca reforçada; cada reposição é uma nova unidade.",
+    "preco": 12,
+    "moeda": "USD",
+    "unidade": "xicara",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "thor",
+      "cafe"
+    ],
+    "referencia_tematica": {
+      "origem": "referencia_filme",
+      "descricao": "Inspirado na cena do café em Thor (2011). A caneca reforçada é uma criação da atividade.",
+      "fonte": "https://www.sideshow.com/blog/thorsday-marvel-thor-most-memorable-movie-quotes"
+    }
+  },
+  {
+    "_id": "s16",
+    "nome": "Transporte para missões",
+    "categoria": "transporte",
+    "descricao": "Transporte terrestre fictício coordenado por Happy Hogan.",
+    "preco": 200,
+    "moeda": "USD",
+    "unidade": "trajeto",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "transporte",
+      "missao"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Adaptação da função de transporte de Happy para o projeto.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s17",
+    "nome": "Limpeza de quarto reforçado",
+    "categoria": "limpeza",
+    "descricao": "Limpeza de quartos amplos e mobiliário reforçado, realizada por prestador ainda não cadastrado.",
+    "preco": 150,
+    "moeda": "USD",
+    "unidade": "atendimento",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "limpeza",
+      "quarto_reforcado"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Serviço para os quartos adaptados ao Hulk; não atribuído a personagem excluída pelo usuário.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s18",
+    "nome": "Conservação de escudo",
+    "categoria": "manutencao",
+    "descricao": "Limpeza e conservação fictícias do escudo, sem modificar sua estrutura.",
+    "preco": 100,
+    "moeda": "USD",
+    "unidade": "atendimento",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "escudo",
+      "steve_rogers"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Serviço inspirado no equipamento de Steve Rogers.",
+      "fonte": null
+    }
+  },
+  {
+    "_id": "s19",
+    "nome": "Acompanhamento de recuperação",
+    "categoria": "saude",
+    "descricao": "Atendimento fictício de acompanhamento após missões, coordenado por Helen Cho.",
+    "preco": 250,
+    "moeda": "USD",
+    "unidade": "atendimento",
+    "disponivel": true,
+    "horario_disponivel": {
+      "inicio": "00:00",
+      "fim": "23:59"
+    },
+    "tags": [
+      "recuperacao",
+      "pos_missao"
+    ],
+    "referencia_tematica": {
+      "origem": "criacao_da_atividade",
+      "descricao": "Função adaptada para a atividade, sem representar aconselhamento médico real.",
+      "fonte": null
+    }
+  }
+]

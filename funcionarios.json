@@ -1,0 +1,129 @@
+[
+  {
+    "_id": "f01",
+    "nome": "J.A.R.V.I.S.",
+    "tipo": "inteligencia_artificial",
+    "cargo": "assistente_virtual",
+    "departamento": "recepcao",
+    "email": null,
+    "telefone": null,
+    "turno": {
+      "tipo": "continuo",
+      "entrada": null,
+      "saida": null
+    },
+    "permissoes": [
+      "reservas_visualizar",
+      "reservas_editar",
+      "checkin",
+      "checkout",
+      "servicos_solicitar"
+    ],
+    "data_admissao": {
+      "$date": "2024-01-01T00:00:00Z"
+    },
+    "salario": null,
+    "ativo": true,
+    "observacoes": "Função fictícia na atividade: assistente virtual responsável pelas reservas, check-in e check-out. Não é o mordomo humano Edwin Jarvis."
+  },
+  {
+    "_id": "f02",
+    "nome": "Pepper Potts",
+    "tipo": "humano",
+    "cargo": "diretora_administrativa",
+    "departamento": "administracao",
+    "email": null,
+    "telefone": null,
+    "turno": {
+      "tipo": "comercial",
+      "entrada": "09:00",
+      "saida": "18:00"
+    },
+    "permissoes": [
+      "reservas_visualizar",
+      "pagamentos_visualizar",
+      "pagamentos_registrar",
+      "funcionarios_gerenciar",
+      "relatorios_visualizar"
+    ],
+    "data_admissao": {
+      "$date": "2024-01-01T00:00:00Z"
+    },
+    "salario": null,
+    "ativo": true,
+    "observacoes": "Cargo e escala fictícios para o projeto. Contatos e salário não informados."
+  },
+  {
+    "_id": "f03",
+    "nome": "Happy Hogan",
+    "tipo": "humano",
+    "cargo": "responsavel_seguranca_transporte",
+    "departamento": "seguranca",
+    "email": null,
+    "telefone": null,
+    "turno": {
+      "tipo": "diurno",
+      "entrada": "08:00",
+      "saida": "17:00"
+    },
+    "permissoes": [
+      "reservas_visualizar",
+      "acessos_gerenciar",
+      "transportes_organizar"
+    ],
+    "data_admissao": {
+      "$date": "2024-01-01T00:00:00Z"
+    },
+    "salario": null,
+    "ativo": true,
+    "observacoes": "Cargo e escala fictícios para o projeto. Contatos e salário não informados."
+  },
+  {
+    "_id": "f04",
+    "nome": "DUM-E",
+    "tipo": "robo",
+    "cargo": "auxiliar_manutencao",
+    "departamento": "manutencao",
+    "email": null,
+    "telefone": null,
+    "turno": {
+      "tipo": "sob_demanda",
+      "entrada": null,
+      "saida": null
+    },
+    "permissoes": [
+      "equipamentos_inspecionar",
+      "manutencao_auxiliar"
+    ],
+    "data_admissao": {
+      "$date": "2024-01-01T00:00:00Z"
+    },
+    "salario": null,
+    "ativo": true,
+    "observacoes": "Adaptação fictícia do assistente robótico de Tony para auxiliar na manutenção de equipamentos da torre."
+  },
+  {
+    "_id": "f05",
+    "nome": "Helen Cho",
+    "tipo": "humano",
+    "cargo": "responsavel_saude_recuperacao",
+    "departamento": "saude",
+    "email": null,
+    "telefone": null,
+    "turno": {
+      "tipo": "diurno",
+      "entrada": "08:00",
+      "saida": "17:00"
+    },
+    "permissoes": [
+      "atendimentos_registrar",
+      "recuperacao_acompanhar"
+    ],
+    "data_admissao": {
+      "$date": "2024-01-01T00:00:00Z"
+    },
+    "salario": null,
+    "ativo": true,
+    "observacoes": "Adaptação fictícia para atendimento médico e recuperação dos hóspedes. Contatos e salário não informados."
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "_id": "hp01",
+    "reserva_id": "r01",
+    "hospede_id": "h01",
+    "quarto_id": "q01",
+    "checkin_real": {
+      "$date": "2026-11-10T14:20:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-11-14T10:45:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": "f01",
+    "funcionario_checkout_id": "f01",
+    "servicos_consumidos": [
+      {
+        "servico_id": "s01",
+        "nome": "Manutenção de armadura",
+        "quantidade": 1,
+        "preco_unitario": 450.0,
+        "total": 450.0,
+        "data": {
+          "$date": "2026-11-10T17:20:00Z"
+        }
+      },
+      {
+        "servico_id": "s02",
+        "nome": "Café da manhã",
+        "quantidade": 4,
+        "preco_unitario": 45.0,
+        "total": 180.0,
+        "data": {
+          "$date": "2026-11-10T18:20:00Z"
+        }
+      }
+    ],
+    "total_servicos": 630.0,
+    "total_diarias": 3400.0,
+    "total_geral": 4030.0,
+    "observacoes": "Estadia fictícia concluída para simulação da atividade. Check-in e check-out realizados pelo J.A.R.V.I.S. Serviços consumidos vinculados ao catálogo de serviços da torre."
+  },
+  {
+    "_id": "hp02",
+    "reserva_id": "r02",
+    "hospede_id": "h02",
+    "quarto_id": "q04",
+    "checkin_real": {
+      "$date": "2026-11-11T14:20:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-11-14T10:45:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": "f01",
+    "funcionario_checkout_id": "f01",
+    "servicos_consumidos": [
+      {
+        "servico_id": "s03",
+        "nome": "Lavagem de uniforme",
+        "quantidade": 1,
+        "preco_unitario": 80.0,
+        "total": 80.0,
+        "data": {
+          "$date": "2026-11-11T17:20:00Z"
+        }
+      },
+      {
+        "servico_id": "s02",
+        "nome": "Café da manhã",
+        "quantidade": 3,
+        "preco_unitario": 45.0,
+        "total": 135.0,
+        "data": {
+          "$date": "2026-11-11T18:20:00Z"
+        }
+      }
+    ],
+    "total_servicos": 215.0,
+    "total_diarias": 1650.0,
+    "total_geral": 1865.0,
+    "observacoes": "Estadia fictícia concluída para simulação da atividade. Check-in e check-out realizados pelo J.A.R.V.I.S. Serviços consumidos vinculados ao catálogo de serviços da torre."
+  },
+  {
+    "_id": "hp03",
+    "reserva_id": "r03",
+    "hospede_id": "h03",
+    "quarto_id": "q05",
+    "checkin_real": {
+      "$date": "2026-11-12T14:20:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-11-17T10:45:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": "f01",
+    "funcionario_checkout_id": "f01",
+    "servicos_consumidos": [
+      {
+        "servico_id": "s04",
+        "nome": "Banquete asgardiano",
+        "quantidade": 2,
+        "preco_unitario": 250.0,
+        "total": 500.0,
+        "data": {
+          "$date": "2026-11-12T17:20:00Z"
+        }
+      },
+      {
+        "servico_id": "s05",
+        "nome": "Lavagem de capa",
+        "quantidade": 1,
+        "preco_unitario": 90.0,
+        "total": 90.0,
+        "data": {
+          "$date": "2026-11-12T18:20:00Z"
+        }
+      }
+    ],
+    "total_servicos": 590.0,
+    "total_diarias": 5500.0,
+    "total_geral": 6090.0,
+    "observacoes": "Estadia fictícia concluída para simulação da atividade. Check-in e check-out realizados pelo J.A.R.V.I.S. Serviços consumidos vinculados ao catálogo de serviços da torre."
+  },
+  {
+    "_id": "hp04",
+    "reserva_id": "r04",
+    "hospede_id": "h04",
+    "quarto_id": "q02",
+    "checkin_real": {
+      "$date": "2026-11-10T14:20:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-11-13T10:45:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": "f01",
+    "funcionario_checkout_id": "f01",
+    "servicos_consumidos": [
+      {
+        "servico_id": "s06",
+        "nome": "Hambúrguer",
+        "quantidade": 20,
+        "preco_unitario": 35.0,
+        "total": 700.0,
+        "data": {
+          "$date": "2026-11-10T17:20:00Z"
+        }
+      },
+      {
+        "servico_id": "s07",
+        "nome": "Refeição reforçada",
+        "quantidade": 3,
+        "preco_unitario": 120.0,
+        "total": 360.0,
+        "data": {
+          "$date": "2026-11-10T18:20:00Z"
+        }
+      }
+    ],
+    "total_servicos": 1060.0,
+    "total_diarias": 3600.0,
+    "total_geral": 4660.0,
+    "observacoes": "Estadia fictícia concluída para simulação da atividade. Check-in e check-out realizados pelo J.A.R.V.I.S. Serviços consumidos vinculados ao catálogo de serviços da torre."
+  },
+  {
+    "_id": "hp05",
+    "reserva_id": "r05",
+    "hospede_id": "h05",
+    "quarto_id": "q06",
+    "checkin_real": {
+      "$date": "2026-11-14T14:20:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-11-16T10:45:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": "f01",
+    "funcionario_checkout_id": "f01",
+    "servicos_consumidos": [
+      {
+        "servico_id": "s08",
+        "nome": "Manutenção de arco",
+        "quantidade": 1,
+        "preco_unitario": 150.0,
+        "total": 150.0,
+        "data": {
+          "$date": "2026-11-14T17:20:00Z"
+        }
+      },
+      {
+        "servico_id": "s02",
+        "nome": "Café da manhã",
+        "quantidade": 2,
+        "preco_unitario": 45.0,
+        "total": 90.0,
+        "data": {
+          "$date": "2026-11-14T18:20:00Z"
+        }
+      }
+    ],
+    "total_servicos": 240.0,
+    "total_diarias": 1000.0,
+    "total_geral": 1240.0,
+    "observacoes": "Estadia fictícia concluída para simulação da atividade. Check-in e check-out realizados pelo J.A.R.V.I.S. Serviços consumidos vinculados ao catálogo de serviços da torre."
+  },
+  {
+    "_id": "hp06",
+    "reserva_id": "r06",
+    "hospede_id": "h06",
+    "quarto_id": "q07",
+    "checkin_real": {
+      "$date": "2026-11-15T14:20:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-11-19T10:45:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": "f01",
+    "funcionario_checkout_id": "f01",
+    "servicos_consumidos": [
+      {
+        "servico_id": "s03",
+        "nome": "Lavagem de uniforme",
+        "quantidade": 2,
+        "preco_unitario": 80.0,
+        "total": 160.0,
+        "data": {
+          "$date": "2026-11-15T17:20:00Z"
+        }
+      },
+      {
+        "servico_id": "s09",
+        "nome": "Massagem relaxante",
+        "quantidade": 1,
+        "preco_unitario": 180.0,
+        "total": 180.0,
+        "data": {
+          "$date": "2026-11-15T18:20:00Z"
+        }
+      }
+    ],
+    "total_servicos": 340.0,
+    "total_diarias": 2400.0,
+    "total_geral": 2740.0,
+    "observacoes": "Estadia fictícia concluída para simulação da atividade. Check-in e check-out realizados pelo J.A.R.V.I.S. Serviços consumidos vinculados ao catálogo de serviços da torre."
+  },
+  {
+    "_id": "hp07",
+    "reserva_id": "r07",
+    "hospede_id": "h07",
+    "quarto_id": "q03",
+    "checkin_real": {
+      "$date": "2026-11-16T14:20:00Z"
+    },
+    "checkout_real": {
+      "$date": "2026-11-18T10:45:00Z"
+    },
+    "status": "encerrada",
+    "funcionario_checkin_id": "f01",
+    "funcionario_checkout_id": "f01",
+    "servicos_consumidos": [
+      {
+        "servico_id": "s10",
+        "nome": "Manutenção de lançadores de teia",
+        "quantidade": 1,
+        "preco_unitario": 120.0,
+        "total": 120.0,
+        "data": {
+          "$date": "2026-11-16T17:20:00Z"
+        }
+      },
+      {
+        "servico_id": "s11",
+        "nome": "Pizza",
+        "quantidade": 2,
+        "preco_unitario": 60.0,
+        "total": 120.0,
+        "data": {
+          "$date": "2026-11-16T18:20:00Z"
+        }
+      }
+    ],
+    "total_servicos": 240.0,
+    "total_diarias": 900.0,
+    "total_geral": 1140.0,
+    "observacoes": "Estadia fictícia concluída para simulação da atividade. Check-in e check-out realizados pelo J.A.R.V.I.S. Serviços consumidos vinculados ao catálogo de serviços da torre."
+  }
+]

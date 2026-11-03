@@ -1,0 +1,189 @@
+[
+{
+    "_id": "h01",
+    "nome": "Tony Stark",
+    "nome_heroi": "Iron Man",
+    "registro_hospede": "H-001",
+    "equipe": "Avengers",
+    "telefone": "+1 212 555-0100",
+    "data_nascimento": {
+      "$date": "1970-05-29T00:00:00Z"
+    },
+    "endereco": {
+      "pais": "EUA",
+      "estado": "Califórnia",
+      "cidade": "Malibu",
+      "bairro": null,
+      "logradouro": "Malibu Point",
+      "numero": "10880",
+      "complemento": "Mansão de Tony Stark",
+      "codigo_postal": "90265"
+    },
+    "preferencias": {
+      "tipo_quarto": "suite",
+      "cama": "king"
+    },
+    "data_cadastro": {
+      "$date": "2024-01-15T10:30:00Z"
+    },
+    "ativo": true
+  },
+
+{
+    "_id": "h02",
+    "nome": "Steve Rogers",
+    "nome_heroi": "Capitão América",
+    "registro_hospede": "H-002",
+    "equipe": "Avengers",
+    "telefone": null,
+    "data_nascimento": {
+      "$date": "1918-07-04T00:00:00Z"
+    },
+    "endereco": {
+      "pais": "EUA",
+      "estado": "Distrito de Colúmbia",
+      "cidade": "Washington, D.C.",
+      "bairro": null,
+      "complemento": "Apartamento de Steve Rogers"
+    },
+    "preferencias": {
+      "tipo_quarto": null,
+      "cama": null
+    },
+    "data_cadastro": {
+      "$date": "2024-01-15T10:30:00Z"
+    },
+    "ativo": true
+  },
+
+{
+  "_id": "h03",
+  "nome": "Thor Odinson",
+  "nome_heroi": "Thor",
+  "registro_hospede": "H-003",
+  "equipe": "Avengers",
+  "telefone": null,
+  "data_nascimento": null,
+  "endereco": {
+    "pais": "Asgard",
+    "estado": "Asgard",
+    "cidade": "Asgard",
+    "bairro": "Asgard"
+  },
+  "preferencias": {
+    "tipo_quarto": null,
+    "cama": null
+  },
+  "data_cadastro": {
+    "$date": "2024-01-15T10:30:00Z"
+  },
+  "ativo": true
+},
+
+{
+    "_id": "h04",
+    "nome": "Bruce Banner",
+    "nome_heroi": "Hulk",
+    "registro_hospede": "H-004",
+    "equipe": "Avengers",
+    "telefone": null,
+    "data_nascimento": {
+      "$date": "1969-12-18T00:00:00Z"
+    },
+    "endereco": {
+      "pais": "Brasil",
+      "estado": "Rio de Janeiro",
+      "cidade": "Rio de Janeiro",
+      "bairro": "Rocinha"
+    },
+    "preferencias": {
+      "tipo_quarto": null,
+      "cama": null
+    },
+    "data_cadastro": {
+      "$date": "2024-01-15T10:30:00Z"
+    },
+    "ativo": true
+  },
+
+{
+    "_id": "h05",
+    "nome": "Clint Barton",
+    "nome_heroi": "Gavião Arqueiro",
+    "registro_hospede": "H-005",
+    "equipe": "Avengers",
+    "telefone": null,
+    "data_nascimento": null,
+    "endereco": {
+      "pais": "EUA",
+      "estado": "Iowa",
+      "cidade": null,
+      "bairro": null,
+      "complemento": "Fazenda da família Barton, zona rural"
+    },
+    "preferencias": {
+      "tipo_quarto": null,
+      "cama": null
+    },
+    "data_cadastro": {
+      "$date": "2024-01-15T10:30:00Z"
+    },
+    "ativo": true
+  },
+
+{
+    "_id": "h06",
+    "nome": "Natasha Romanoff",
+    "nome_heroi": "Viúva Negra",
+    "registro_hospede": "H-006",
+    "equipe": "Avengers",
+    "telefone": null,
+    "data_nascimento": {
+      "$date": "1984-12-03T00:00:00Z"
+    },
+    "endereco": {
+      "pais": "EUA",
+      "estado": "Nova York",
+      "cidade": "Nova York",
+      "bairro": "Midtown, Manhattan",
+      "complemento": "Torre dos Vingadores"
+    },
+    "preferencias": {
+      "tipo_quarto": null,
+      "cama": null
+    },
+    "data_cadastro": {
+      "$date": "2024-01-15T10:30:00Z"
+    },
+    "ativo": true
+  },
+
+{
+    "_id": "h07",
+    "nome": "Peter Parker",
+    "nome_heroi": "Homem-Aranha",
+    "registro_hospede": "H-007",
+    "equipe": "Avengers",
+    "telefone": null,
+    "data_nascimento": {
+      "$date": "2001-08-10T00:00:00Z"
+    },
+    "endereco": {
+      "pais": "EUA",
+      "estado": "Nova York",
+      "cidade": "Nova York",
+      "bairro": "Forest Hills, Queens",
+      "logradouro": "Ingram Street",
+      "numero": "20",
+      "complemento": "Residência de Peter e May Parker"
+    },
+    "preferencias": {
+      "tipo_quarto": null,
+      "cama": null
+    },
+    "data_cadastro": {
+      "$date": "2024-01-15T10:30:00Z"
+    },
+    "ativo": true
+  }
+]

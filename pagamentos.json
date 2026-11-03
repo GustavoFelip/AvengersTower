@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "p01",
+    "hospedagem_id": "hp01",
+    "reserva_id": "r01",
+    "hospede_id": "h01",
+    "pagador": {
+      "tipo": "patrocinador",
+      "nome": "Indústrias Stark"
+    },
+    "moeda": "USD",
+    "valor_total": 4030.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-11-14T10:40:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "valor": 3400.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TX-AT-001-01"
+      },
+      {
+        "metodo": "transferencia_bancaria",
+        "valor": 630.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TX-AT-001-02"
+      }
+    ],
+    "nota_fiscal": "NF-FICTICIA-AT-001",
+    "data_criacao": {
+      "$date": "2026-11-14T10:40:00Z"
+    }
+  },
+  {
+    "_id": "p02",
+    "hospedagem_id": "hp02",
+    "reserva_id": "r02",
+    "hospede_id": "h02",
+    "pagador": {
+      "tipo": "hospede",
+      "nome": "Steve Rogers"
+    },
+    "moeda": "USD",
+    "valor_total": 1865.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-11-14T10:40:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "valor": 1865.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TX-AT-002-01"
+      }
+    ],
+    "nota_fiscal": "NF-FICTICIA-AT-002",
+    "data_criacao": {
+      "$date": "2026-11-14T10:40:00Z"
+    }
+  },
+  {
+    "_id": "p03",
+    "hospedagem_id": "hp03",
+    "reserva_id": "r03",
+    "hospede_id": "h03",
+    "pagador": {
+      "tipo": "patrocinador",
+      "nome": "Fundo dos Vingadores"
+    },
+    "moeda": "USD",
+    "valor_total": 6090.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-11-17T10:40:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "transferencia_bancaria",
+        "valor": 6090.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TX-AT-003-01"
+      }
+    ],
+    "nota_fiscal": "NF-FICTICIA-AT-003",
+    "data_criacao": {
+      "$date": "2026-11-17T10:40:00Z"
+    }
+  },
+  {
+    "_id": "p04",
+    "hospedagem_id": "hp04",
+    "reserva_id": "r04",
+    "hospede_id": "h04",
+    "pagador": {
+      "tipo": "patrocinador",
+      "nome": "Fundo dos Vingadores"
+    },
+    "moeda": "USD",
+    "valor_total": 4660.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-11-13T10:40:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "transferencia_bancaria",
+        "valor": 4660.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TX-AT-004-01"
+      }
+    ],
+    "nota_fiscal": "NF-FICTICIA-AT-004",
+    "data_criacao": {
+      "$date": "2026-11-13T10:40:00Z"
+    }
+  },
+  {
+    "_id": "p05",
+    "hospedagem_id": "hp05",
+    "reserva_id": "r05",
+    "hospede_id": "h05",
+    "pagador": {
+      "tipo": "hospede",
+      "nome": "Clint Barton"
+    },
+    "moeda": "USD",
+    "valor_total": 1240.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-11-16T10:40:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "valor": 1240.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TX-AT-005-01"
+      }
+    ],
+    "nota_fiscal": "NF-FICTICIA-AT-005",
+    "data_criacao": {
+      "$date": "2026-11-16T10:40:00Z"
+    }
+  },
+  {
+    "_id": "p06",
+    "hospedagem_id": "hp06",
+    "reserva_id": "r06",
+    "hospede_id": "h06",
+    "pagador": {
+      "tipo": "hospede",
+      "nome": "Natasha Romanoff"
+    },
+    "moeda": "USD",
+    "valor_total": 2740.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-11-19T10:40:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "cartao_credito",
+        "valor": 2740.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TX-AT-006-01"
+      }
+    ],
+    "nota_fiscal": "NF-FICTICIA-AT-006",
+    "data_criacao": {
+      "$date": "2026-11-19T10:40:00Z"
+    }
+  },
+  {
+    "_id": "p07",
+    "hospedagem_id": "hp07",
+    "reserva_id": "r07",
+    "hospede_id": "h07",
+    "pagador": {
+      "tipo": "patrocinador",
+      "nome": "Indústrias Stark"
+    },
+    "moeda": "USD",
+    "valor_total": 1140.0,
+    "status": "pago",
+    "data_pagamento": {
+      "$date": "2026-11-18T10:40:00Z"
+    },
+    "parcelas": [
+      {
+        "metodo": "transferencia_bancaria",
+        "valor": 1140.0,
+        "num_parcelas": 1,
+        "status": "aprovado",
+        "transacao_id": "TX-AT-007-01"
+      }
+    ],
+    "nota_fiscal": "NF-FICTICIA-AT-007",
+    "data_criacao": {
+      "$date": "2026-11-18T10:40:00Z"
+    }
+  }
+]

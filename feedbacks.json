@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "fb01",
+    "hospede_id": "h01",
+    "hospedagem_id": "hp01",
+    "quarto_id": "q01",
+    "data_avaliacao": {
+      "$date": "2026-11-14T13:45:00Z"
+    },
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 5,
+      "custo_beneficio": 4,
+      "localizacao": 5
+    },
+    "comentario": "A suíte é ótima, mas a bancada só comporta uma armadura. Trouxe três. E alguém colocou limite de consumo no frigobar? Pepper, precisamos conversar.",
+    "resposta_hotel": {
+      "texto": "Senhor Stark, a reserva era de uma suíte, não de uma fábrica. A ampliação da bancada foi encaminhada à administração.",
+      "data": {
+        "$date": "2026-11-14T14:45:00Z"
+      },
+      "funcionario_id": "f01"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fb02",
+    "hospede_id": "h02",
+    "hospedagem_id": "hp02",
+    "quarto_id": "q04",
+    "data_avaliacao": {
+      "$date": "2026-11-14T13:45:00Z"
+    },
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 4,
+      "conforto": 5,
+      "custo_beneficio": 5,
+      "localizacao": 5
+    },
+    "comentario": "Cama confortável, quarto limpo e suporte para o escudo impecável. Só gostaria que falassem menos palavrões no corredor. Sim, Stark, estou falando com você.",
+    "resposta_hotel": {
+      "texto": "Capitão, reforçamos as orientações de convivência. O senhor Stark solicitou saber se a regra também vale quando a armadura trava.",
+      "data": {
+        "$date": "2026-11-14T14:45:00Z"
+      },
+      "funcionario_id": "f01"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fb03",
+    "hospede_id": "h03",
+    "hospedagem_id": "hp03",
+    "quarto_id": "q05",
+    "data_avaliacao": {
+      "$date": "2026-11-17T13:45:00Z"
+    },
+    "nota_geral": 5,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 5,
+      "custo_beneficio": 4,
+      "localizacao": 5
+    },
+    "comentario": "Excelente banquete! O café de Midgard é digno de Asgard. Desejo outro! A caneca reforçada também é boa, embora eu não tenha sido autorizado a testar sua resistência.",
+    "resposta_hotel": {
+      "texto": "Lorde Thor, outra xícara está a caminho. Agradecemos por manter a primeira inteira desta vez.",
+      "data": {
+        "$date": "2026-11-17T14:45:00Z"
+      },
+      "funcionario_id": "f01"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fb04",
+    "hospede_id": "h04",
+    "hospedagem_id": "hp04",
+    "quarto_id": "q02",
+    "data_avaliacao": {
+      "$date": "2026-11-13T13:45:00Z"
+    },
+    "nota_geral": 4,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 5,
+      "custo_beneficio": 4,
+      "localizacao": 5
+    },
+    "comentario": "HULK GOSTOU DA CAMA. CAMA NÃO QUEBROU. MAS PORÇÕES PEQUENAS! VINTE HAMBÚRGUERES ERA ENTRADA. HULK QUER PRATO PRINCIPAL.",
+    "resposta_hotel": {
+      "texto": "Solicitação recebida. A cozinha está revendo o conceito de porção individual. A estrutura da cama agradece a avaliação positiva.",
+      "data": {
+        "$date": "2026-11-13T14:45:00Z"
+      },
+      "funcionario_id": "f01"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fb05",
+    "hospede_id": "h05",
+    "hospedagem_id": "hp05",
+    "quarto_id": "q06",
+    "data_avaliacao": {
+      "$date": "2026-11-16T13:45:00Z"
+    },
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 4,
+      "custo_beneficio": 5,
+      "localizacao": 5
+    },
+    "comentario": "O armário para o arco é excelente. Só faltou um lugar para guardar a paciência depois de uma missão com essa equipe. E não, eu não estava mirando nas almofadas.",
+    "resposta_hotel": {
+      "texto": "Senhor Barton, podemos providenciar outra almofada. A administração reforça que o quarto não é uma área de treinamento.",
+      "data": {
+        "$date": "2026-11-16T14:45:00Z"
+      },
+      "funcionario_id": "f01"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fb06",
+    "hospede_id": "h06",
+    "hospedagem_id": "hp06",
+    "quarto_id": "q07",
+    "data_avaliacao": {
+      "$date": "2026-11-19T13:45:00Z"
+    },
+    "nota_geral": 4.5,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 4,
+      "conforto": 5,
+      "custo_beneficio": 5,
+      "localizacao": 5
+    },
+    "comentario": "Privacidade boa, cofre aprovado e uniforme bem lavado. Mas o sensor anunciou minha chegada no corredor inteiro. Para quem trabalha com discrição, isso conta como spoiler.",
+    "resposta_hotel": {
+      "texto": "Senhora Romanoff, o aviso sonoro foi desativado para futuras estadias. Seu próximo check-in será tão discreto quanto este pedido permite.",
+      "data": {
+        "$date": "2026-11-19T14:45:00Z"
+      },
+      "funcionario_id": "f01"
+    },
+    "visivel": true
+  },
+  {
+    "_id": "fb07",
+    "hospede_id": "h07",
+    "hospedagem_id": "hp07",
+    "quarto_id": "q03",
+    "data_avaliacao": {
+      "$date": "2026-11-18T13:45:00Z"
+    },
+    "nota_geral": 5,
+    "notas_detalhadas": {
+      "limpeza": 5,
+      "atendimento": 5,
+      "conforto": 5,
+      "custo_beneficio": 5,
+      "localizacao": 5
+    },
+    "comentario": "Wi-Fi incrível, pizza ótima e bancada perfeita para os lançadores! Só uma dúvida: teia no teto conta como decoração ou vai descontar do meu estágio? Perguntando para um amigo.",
+    "resposta_hotel": {
+      "texto": "Senhor Parker, teias não fazem parte da decoração padrão. Recomendamos avisar seu amigo antes que a equipe de limpeza encontre o teto.",
+      "data": {
+        "$date": "2026-11-18T14:45:00Z"
+      },
+      "funcionario_id": "f01"
+    },
+    "visivel": true
+  }
+]
